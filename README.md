@@ -1,4 +1,4 @@
-# HackBelfast Portal (prototype)
+# Hackathon Admissions Portal (prototype)
 
 A registration, admissions and judging platform for a 200-place hackathon, built as a prototype for
 [HackBelfast](https://www.hackbelfast.org/). **This is not an official HackBelfast site.**

@@ -52,7 +52,7 @@ export default async function RootLayout({ children }) {
           <span>
             Prototype, not the official HackBelfast site · Built by{' '}
             <a href="https://github.com/MuhammadMurtuzaHussain" target="_blank" rel="noreferrer">Muhammad Murtuza Hussain</a> ·{' '}
-            <a href="https://github.com/MuhammadMurtuzaHussain/hackbelfast-portal" target="_blank" rel="noreferrer">Source</a>
+            <a href="https://github.com/MuhammadMurtuzaHussain/hackathon-admissions-portal" target="_blank" rel="noreferrer">Source</a>
           </span>
         </footer>
       </body>
