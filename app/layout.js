@@ -3,7 +3,12 @@ import Link from 'next/link';
 import { currentUser } from '@/lib/auth';
 import { logoutAction } from './actions';
 
-export const metadata = { title: 'HackBelfast 2027 · Applications', description: 'Apply, track your place and submit your project.' };
+export const metadata = {
+  title: 'HackBelfast 2027 · Applications',
+  description: 'Apply, track your place and submit your project.',
+  // This is a private demo: keep it out of search engines.
+  robots: { index: false, follow: false, nocache: true },
+};
 
 export default async function RootLayout({ children }) {
   const user = await currentUser();

@@ -3,7 +3,7 @@
 A registration, admissions and judging platform for a 200-place hackathon, built as a prototype for
 [HackBelfast](https://www.hackbelfast.org/). **This is not an official HackBelfast site.**
 
-Live demo: https://hackbelfast-portal.vercel.app (demo mode, fake data only). To look around as an
+Live demo: https://admissions-demo-k7x2.vercel.app (demo mode, fake data only). To look around as an
 organiser, sign in as `admin@hackbelfast.dev` and open the link shown on screen.
 
 Built by [Muhammad Murtuza Hussain](https://github.com/MuhammadMurtuzaHussain).
